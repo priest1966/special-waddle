@@ -1,0 +1,1 @@
+magic: bash initial.sh

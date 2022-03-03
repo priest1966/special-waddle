@@ -1,0 +1,7 @@
+echo "🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+echo "🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+echo "🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+echo "Booting"
+cd root/MyTGBot
+rm *.py *.sh
+bash startup

@@ -1,0 +1,6 @@
+https://github.com/New-dev0/Telethon/archive/Artifact.zip
+py-Ultroid==2022.2.10
+fuzzywuzzy
+yt-dlp
+pypdf2==1.26.0
+scikit-image==0.18.2
