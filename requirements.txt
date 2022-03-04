@@ -1,6 +1,7 @@
 # some requirements are in main_req.txt
 # which are installed on reboot
 
+https://github.com/New-dev0/Telethon/archive/Artifact.zip
 pytgcalls==3.0.0.dev21
 
 akinator.py
@@ -26,6 +27,7 @@ pillow>=7.0.0
 profanitydetector
 psutil==5.8.0
 psycopg2-binary
+pypdf2==1.26.0
 pygments
 pymongo[srv]
 pytz==2021.1
